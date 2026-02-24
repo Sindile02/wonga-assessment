@@ -1,0 +1,6 @@
+@WongaApi_HostAddress = http://localhost:5149
+
+GET {{WongaApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
